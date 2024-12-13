@@ -1,0 +1,29 @@
+#color1{
+    color: blueviolet;
+}
+
+#color2{
+    color: orangered;
+}
+
+#goku{
+    height: 400px;
+    width: 300px;
+    
+    
+}
+
+#luffy{
+    height: 400px;
+    width: 200px;
+}
+
+.container{
+    text-align: center;
+}
+
+
+.pro{
+    width: 100%; /* Ancho completo */
+    height: 15px; /* Ajustamos la altura */
+}
