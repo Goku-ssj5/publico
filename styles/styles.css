@@ -6,16 +6,16 @@
     color: orangered;
 }
 
-#goku{
+#juego1{
     height: 400px;
     width: 300px;
     
     
 }
 
-#luffy{
+#juego2{
     height: 400px;
-    width: 200px;
+    width: 300px;
 }
 
 .container{
@@ -23,7 +23,4 @@
 }
 
 
-.pro{
-    width: 100%; /* Ancho completo */
-    height: 15px; /* Ajustamos la altura */
-}
+
