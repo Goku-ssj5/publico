@@ -1,0 +1,47 @@
+#color1{
+    color: blueviolet;
+}
+
+#color2{
+    color: rgb(255, 174, 0);
+}
+
+#juego1{
+    height: 400px;
+    width: 300px;
+    
+    
+}
+
+#juego2{
+    height: 400px;
+    width: 300px;
+}
+
+.container{
+    text-align: center;
+}
+
+#bots{
+    padding-top: 2%;
+}
+
+
+#space{
+    padding-top: 1%;
+    float: left;
+}
+
+
+#img{
+    padding-top: 2%;
+    text-align: center;
+}
+
+
+
+#seleccion{
+  padding-top: 2%;
+    text-align: center;
+    
+}
